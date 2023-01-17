@@ -6,7 +6,7 @@ function solution(array) {
     let x = parseInt(array.length / 2)
     var answer = array[x];
     return answer;
-}
+}  
 
 // 1) 배열 오름차순으로 바꾸기 
 // 2) 배열 길이 2로 나눠서 정수로 만듦 -> 중앙값 위치 찾기
